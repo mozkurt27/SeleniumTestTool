@@ -1,7 +1,6 @@
 ﻿using OpenQA.Selenium;
 using SeleniumTestTool.drivers;
 
-
 namespace SeleniumTestTool.Pages
 {
     public class HomePage : firefox
